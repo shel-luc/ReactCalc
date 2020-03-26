@@ -1,0 +1,15 @@
+.btn-clear{
+       display: flex;
+       flex: 1;
+        width: 160px;
+        background-color: #A20021;
+        justify-content: center;
+        align-items: center;
+        color: white;
+    
+}
+.btn-clear:hover{
+    color: black;
+    outline: .05em solid grey;
+    z-index: 3;
+}
